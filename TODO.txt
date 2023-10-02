@@ -1,0 +1,9 @@
+Uppgiften är att bygga en webbapplikation som agerar gränssnitt för den data som hämtas via API:et. 
+Funktionalitet som ska finnas i gränssnittet är en listvy, möjlighet att söka eller filtrera, och en detaljvy. 
+Vi värdesätter att gränssnittet ser snyggt ut, att koden är väl strukturerad och följer en logisk struktur.
+
+En sida för listvyn
+en sida för detaljvy
+
+
+standard är server component, om komponenten använder hooks osv använd "use client" i componenten.
